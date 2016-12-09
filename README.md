@@ -2,7 +2,4 @@
 
 ---
 
-[source](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/ "programmingpython.net")
-
-Just a tutu
-
+A coursera course
