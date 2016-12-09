@@ -1,2 +1,8 @@
 # Applied-Data-Science-with-Python
-One Coursera Courses
+
+---
+
+[source](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/ "programmingpython.net")
+
+Just a tutu
+
